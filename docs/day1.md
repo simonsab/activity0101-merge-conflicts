@@ -1,7 +1,6 @@
 ---
 title: Day 1
 output: html_document
-author: Alex Gichuki
 ---
 
 # Example Text
